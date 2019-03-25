@@ -77,14 +77,14 @@ Project
 ## RUN THE SERVER (Basic commands)
 
 . For running the server you have to run following command
-        go run main.go
-  It will start your server at the port you have mentioned in .env file.
+        ```go run main.go```
+  It will start your server at the port you have mentioned in ```.env``` file.
   
 . If you want to run the server in port other than default, then run following command
-        go run main.go <specific port>
+        ```go run main.go <specific port>```
         
 . If you want to create a build for your project and upload in server, then you have to run following command
-        go build
+        ```go build```
         
        
 ## API with versioning
